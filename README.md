@@ -57,5 +57,6 @@ Si te gusta lo que hago, tal vez considere comprarme un café / té 🥺👉👈
   
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=bypabloc&theme=dark&hide_border=true" width = 400>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bypabloc&layout=compact&langs_count=8"/>
 
 
