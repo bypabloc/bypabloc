@@ -15,7 +15,13 @@ Hola, yo soy [Pablo Contreras](https://bypabloc-cv.netlify.app/), un apasionado 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 ¿Algun trabajo de tiempo completo? Contactame por aca, [email](mailto:pacg1991@gmail.com) :)
+- 💼 ¿Algun trabajo de tiempo completo? Contactame por alguno de estos medios:<br/>
+  <a href="mailto:pacg1991@gmail.com?subject=[GitHub]%20🔥%20Contacto&body=Hola%20Pablo,%2C%0A%0AVoy%20a%20visitarlos%20hoy%20después%20de%20ver%20su%20perfil%20de%20GitHub%20para%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/mrstandu33"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/stan-daniels-roth-278478127"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
 - 💬 pregúntame sobre cualquier cosa, estoy feliz de ayudar;
 
 **lenguajes y herramientas:**  
@@ -37,10 +43,6 @@ Other        5 hrs            ▒░░░░░░░░░░░░░░░�
 CSS          3 hrs            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 <!--END_SECTION:waka-->
-
-Si te gusta lo que hago, tal vez considere comprarme un café / té 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Comprame un café" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
