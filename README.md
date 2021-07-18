@@ -73,6 +73,8 @@ CSS          3 hrs            ░░░░░░░░░░░░░░░░�
     <img src="https://github-profile-trophy.vercel.app/?username=bypabloc&theme=dark&hide_border=true"/>
   </a>
 </p>
+
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=bypabloc&theme=rogue)
   
 </br>
 </br>
