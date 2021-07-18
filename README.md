@@ -18,7 +18,7 @@ Hola, yo soy [Pablo Contreras](https://bypabloc-cv.netlify.app/), un apasionado 
 - 💼 ¿Algun trabajo de tiempo completo? Contactame por aca, [email](mailto:pacg1991@gmail.com) :)
 - 💬 pregúntame sobre cualquier cosa, estoy feliz de ayudar;
 
-**languages and tools:**  
+**lenguajes y herramientas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -27,20 +27,20 @@ Hola, yo soy [Pablo Contreras](https://bypabloc-cv.netlify.app/), un apasionado 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **esta semana pasé mi tiempo en:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 hrs 11 mins   ██████████████▓░░░░░░░░░░   59.15 % 
-JSX          5 hrs 25 mins   ████████▓░░░░░░░░░░░░░░░░   34.94 % 
-MDX          38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JavaScript   20 hrs 11 mins   ██████████████▓░░░░░░░░░░   59.15 % 
+Vue          15 hrs 25 mins   ████████▓░░░░░░░░░░░░░░░░   34.94 % 
+PHP          5 hrs            █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Other        5 hrs            ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+CSS          3 hrs            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+Si te gusta lo que hago, tal vez considere comprarme un café / té 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Comprame un café" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
