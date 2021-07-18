@@ -44,10 +44,11 @@ Si te gusta lo que hago, tal vez considere comprarme un café / té 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
+✅  De fundar una StartUp (<a href="appinteli.com" target="_blank">AppInteli <img src="https://appinteli.com/img/icon.svg" width="15px" alt="AppInteli"></a>).           
 ✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
+✅  Completed 663 tasks so far           
+✅  Completed 663 tasks so far           
+✅  Completed 663 tasks so far           
 <!-- TODO-IST:END -->
 
 
