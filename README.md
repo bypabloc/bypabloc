@@ -55,11 +55,18 @@ CSS          3 hrs            ░░░░░░░░░░░░░░░░�
 📈 Mis estadísticas de github
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bypabloc&show_icons=true&theme=gotham" alt="bypabloc" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bypabloc&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8"/>
+</p>
+  
+<p align="center">
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=bypabloc&theme=dark&hide_border=true" width = 400>
+</p>
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=bypabloc)
   
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=bypabloc&theme=dark&hide_border=true" width = 400>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bypabloc&layout=compact&langs_count=8"/>
 
 
