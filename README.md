@@ -1,10 +1,6 @@
-### ¡Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/bypabloc">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/bypabloc/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<div align="center">
+<h2> Hola <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+</div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bypabloc.bypabloc)
 
@@ -69,6 +65,13 @@ CSS          3 hrs            ░░░░░░░░░░░░░░░░�
 <img src = "https://github-profile-trophy.vercel.app/?username=bypabloc&theme=dark&hide_border=true">
 </p>
   
+</br>
+</br>
+
+<p align="center">
+<i>¡Un chiste random para ti! (crea uno para ti aca ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+</p>
 
 
 
