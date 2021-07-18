@@ -53,6 +53,7 @@ Si te gusta lo que hago, tal vez considere comprarme un café / té 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bypabloc&show_icons=true&theme=gotham" alt="bypabloc" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=bypabloc)
 
 
 
