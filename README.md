@@ -41,7 +41,7 @@ CSS          3 hrs            ░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-🚧 **my todoist stats:**
+🚧 **De lo que estoy orgulloso:**
 <!-- TODO-IST:START -->
 ✅  De fundar una StartUp <a href="https://appinteli.com" target="_blank">AppInteli <img src="https://appinteli.com/img/icon.svg" width="15px" alt="AppInteli"></a>           
 ✅  De haber empezado con una StartUp desde cero hasta que sea autosostenible <a href="https://dibal.pe/" target="_blank">Dibal <img src="http://dibal.pe/img/isotipo.png" width="15px" alt="AppInteli"></a>           
