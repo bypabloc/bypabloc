@@ -44,16 +44,12 @@ Si te gusta lo que hago, tal vez considere comprarme un café / té 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-✅  De fundar una StartUp <a href="https://appinteli.com" target="_blank">AppInteli <img src="https://appinteli.com/img/icon.svg" width="15px" alt="AppInteli"></a>
-✅  De haber empezado con una StartUp desde cero hasta que sea autosostenible <a href="https://dibal.pe/" target="_blank">Dibal <img src="http://dibal.pe/img/isotipo.png" width="15px" alt="AppInteli"></a>   
-✅  Completed 663 tasks so far           
-✅  Completed 663 tasks so far           
-✅  Completed 663 tasks so far           
-✅  Completed 663 tasks so far           
+✅  De fundar una StartUp <a href="https://appinteli.com" target="_blank">AppInteli <img src="https://appinteli.com/img/icon.svg" width="15px" alt="AppInteli"></a>           
+✅  De haber empezado con una StartUp desde cero hasta que sea autosostenible <a href="https://dibal.pe/" target="_blank">Dibal <img src="http://dibal.pe/img/isotipo.png" width="15px" alt="AppInteli"></a>           
+✅  Haberme graduado como Ingeniero en Informática           
 <!-- TODO-IST:END -->
 
-
-📈 my github stats
+📈 Mis estadísticas de github
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bypabloc&show_icons=true&theme=gotham" alt="bypabloc" />
 
