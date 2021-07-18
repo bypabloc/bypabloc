@@ -10,7 +10,7 @@
 
 <br />
 
-Hola, yo soy [Pablo Contreras](https://bypabloc-cv.netlify.app/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hola, yo soy [Pablo Contreras](https://bypabloc-cv.netlify.app/), un apasionado desarrollador web autodidacta y un Ingeniero en Informática. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
