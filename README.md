@@ -50,19 +50,30 @@ CSS          3 hrs            ░░░░░░░░░░░░░░░░�
 
 📈 Mis estadísticas de github
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bypabloc&show_icons=true&theme=gotham" alt="bypabloc" />
+<p align="center"> 
+  <a href="https://github-readme-stats.vercel.app/api?username=bypabloc&show_icons=true&theme=gotham">
+    <img src="https://github-readme-stats.vercel.app/api?username=bypabloc&show_icons=true&theme=gotham" alt="bypabloc" />
+  </a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bypabloc&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bypabloc&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bypabloc&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8"/>
+  </a>
 </p>
   
 <p align="center">
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=bypabloc&theme=dark&hide_border=true" width = 400>
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=bypabloc&theme=dark&hide_border=true">
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=bypabloc&theme=dark&hide_border=true" width = 400>
+  </a>
 </p>
   
 <p align="center">
-<img src = "https://github-profile-trophy.vercel.app/?username=bypabloc&theme=dark&hide_border=true">
+  
+  <a href="https://github-profile-trophy.vercel.app/?username=bypabloc&theme=dark&hide_border=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=bypabloc&theme=dark&hide_border=true"/>
+  </a>
+
 </p>
   
 </br>
