@@ -16,7 +16,7 @@ Hola, yo soy [Pablo Contreras](https://bypabloc-cv.netlify.app/), un apasionado 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 ¿Algun trabajo de tiempo completo? Contactame por alguno de estos medios:<br/>
-  <a href="mailto:pacg1991@gmail.com?subject=[GitHub]%20🔥%20Contacto&body=Hola%20Pablo,%2C%0A%0AVoy%20a%20visitarlos%20hoy%20después%20de%20ver%20su%20perfil%20de%20GitHub%20para%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:pacg1991@gmail.com?subject=[GitHub]%20🔥%20Contacto&body=Hola%20Pablo%2C%0A%0AVoy%20a%20visitarlos%20hoy%20después%20de%20ver%20su%20perfil%20de%20GitHub%20para%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/mrstandu33"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   <a href="https://linkedin.com/in/stan-daniels-roth-278478127"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
