@@ -72,7 +72,7 @@ CSS          3 hrs            ░░░░░░░░░░░░░░░░�
   
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=bypabloc&theme=dark&hide_border=true">
-    <img src="https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=bypabloc-na&theme=nord&column=7"/>
   </a>
 </p>
 
