@@ -8,7 +8,7 @@
 
 <br />
 
-Soy un apasionado desarrollador web autodidacta y un Ingeniero en Informática. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
+Soy Ingeniero en Informatica y un apasionado desarrollador web autodidacta. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -85,10 +85,3 @@ CSS          3 hrs            ░░░░░░░░░░░░░░░░�
 <i>¡Un chiste random para ti! (crea uno para ti aca ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 </p>
-
-
-## 👨‍💻 This week, I spent my time on:
-
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
-
-
