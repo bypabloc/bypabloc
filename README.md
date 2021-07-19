@@ -1,12 +1,14 @@
 <div align="center">
-<h2> Hola <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+  <h2> Hola <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! Yo soy <a href="https://bypabloc-cv.netlify.app/">Pablo Contreras</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 </div>
+
+<h3 align="center">🚀 Full Stack Developer | MEVN Stack & VILT Stack | Open Source ♥ | Devops | Programador competitivo 🚀</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bypabloc.bypabloc)
 
 <br />
 
-Hola, yo soy [Pablo Contreras](https://bypabloc-cv.netlify.app/), un apasionado desarrollador web autodidacta y un Ingeniero en Informática. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
+Soy un apasionado desarrollador web autodidacta y un Ingeniero en Informática. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
