@@ -33,15 +33,8 @@ Soy Ingeniero en Informatica y un apasionado desarrollador web autodidacta. Mi p
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **esta semana pasé mi tiempo en:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   20 hrs 11 mins   ██████████████▓░░░░░░░░░░   59.15 % 
-Vue          15 hrs 25 mins   ████████▓░░░░░░░░░░░░░░░░   34.94 % 
-PHP          5 hrs            █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Other        5 hrs            ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-CSS          3 hrs            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-```
-<!--END_SECTION:waka-->
+
+[![bypabloc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bypabloc)](https://github.com/anuraghazra/github-readme-stats)
 
 🚧 **De lo que estoy orgulloso:**
 <!-- TODO-IST:START -->
