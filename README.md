@@ -43,6 +43,9 @@ Soy Ingeniero en Informatica y un apasionado desarrollador web autodidacta. Mi p
 ✅  Haberme graduado como Ingeniero en Informática           
 <!-- TODO-IST:END -->
 
+✨ **Para ver un detallado de mi CV u hoja de vida:**
+<a href="https://bypabloc-cv.netlify.app/">Presiona aquí</a>
+
 📈 Mis estadísticas de github
 
 <p align="center"> 
