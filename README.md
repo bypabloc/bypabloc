@@ -2,7 +2,7 @@
   <h2> Hola <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! Yo soy <a href="https://bypabloc-cv.netlify.app/">Pablo Contreras</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 </div>
 
-<h3 align="center">🚀 Full Stack Developer | MEVN Stack & VILT Stack | Open Source ♥ | Devops | Programador competitivo 🚀</h3>
+<h3 align="center">🚀 Software Enginner | MEVN Stack & VILT Stack | Open Source ♥ | Devops | Programador competitivo 🚀</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bypabloc.bypabloc)
 
