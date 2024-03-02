@@ -15,7 +15,7 @@ Ingeniero de software con más de 7 años de experiencia, especializado en el de
   
 <br/>
   
-- 💼 ¿Algun trabajo de tiempo completo? Contactame por alguno de estos medios:<br/>
+- 💼 ¿Algun trabajo freelance o de tiempo completo? Contactame por alguno de estos medios:<br/>
   <a href="mailto:pacg1991@gmail.com?subject=[GitHub]%20🔥%20Contacto&body=Hola%20Pablo%2C%0A%0AVoy%20a%20visitarlos%20hoy%20después%20de%20ver%20su%20perfil%20de%20GitHub%20para%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/bypabloc_"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/bypabloc"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
