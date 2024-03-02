@@ -8,7 +8,7 @@
 
 <br />
 
-Soy Ingeniero en Informatica y un apasionado desarrollador web autodidacta. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
+Ingeniero de software con más de 7 años de experiencia, especializado en el desarrollo Full Stack con Python y JavaScript. Experto en la creación de soluciones tecnológicas con Vue, Django, microservicios y AWS, he desarrollado y liderado con éxito la implementación de sistemas ERP y plataformas fintech, mejorando significativamente la eficiencia operativa y la experiencia del usuario. Hábil en la coordinación y motivación de equipos, me adapto con facilidad a entornos dinámicos y desafiantes, enfocado siempre en la calidad y la innovación.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
